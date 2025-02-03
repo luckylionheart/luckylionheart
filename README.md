@@ -1,1 +1,1 @@
-<div style="text-align:center;font-size:64px"> 🤗    </div>
+<h1 🤗    </h1>
